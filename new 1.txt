@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Treksters</title>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="style.css">
+	</head>   
+	<body>
+	<div class="box1">
+		<center>
+			<h1 class="Title1">Welcome Treksters</h1>
+			<h3 class = "slogan">Get ready for adventures</h3>
+		</center>
+	</div>
+		<section>
+			<article>
+				<h2>Sign-in</h2>
+				<h4>1.: Kalsubai </h4><br> <p title="" style=color:>	>>	Enjoy the thrilling nature camp at the highest peak of maharashtra</p> <br>
+				<h4>2.: Pawna Lake </h4><br> <p title="" style=color:>	>>	Enjoy the tranquil camp at the famous pawna lake with exciting sports</p> <br>
+				<h4>3.: Bhandardhara</h4><br><p title="" style=color:>	>>	Enjoy the exciting camp with fireflies and scenic beauty for animal lovers</p>
+			</article>
+		</section>
+		
+		<section>
+			<article>
+				<h2 class="title">Gears Required</h2>
+				<h4>* Trekking shoes<br><br>* Napkins<br><br>* Hand Gloves<br><br>* Cap</h4>
+			</article>
+		</section>
+	</body>
+	
+</html>
